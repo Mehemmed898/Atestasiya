@@ -1,0 +1,41 @@
+li{
+    margin: 0;
+    list-style: none;
+    justify-content: space-between;
+    padding: 5px;
+
+
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("/picture/maraqli-sekiller.com_sema-2147.jpg");
+ background-size: cover;
+ color: white;
+ font-size: 35px;
+}
+
+
+.umumi{
+    display: flex;
+    justify-content: space-between;
+}
+.veb{
+    margin-top: 0px;
+    margin: 5px;
+}
+.soz1{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
